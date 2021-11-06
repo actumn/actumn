@@ -19,4 +19,4 @@ More details on [LinkedIn](https://www.linkedin.com/in/sunmyeong-lee-663234153/)
 - [Elasticsearch Internal Deep-dive](https://docs.google.com/presentation/d/1cvqbnWIC9bnipXzh8WgwRlU6gHsTeVB4/edit?usp=sharing&ouid=113090158113620634338&rtpof=true&sd=true)
 
 ### ✨ Side Project
-- [Eternal Return Survival Book](https://play.google.com/store/apps/details?id=com.actumn.eternalreturns), downloads 3k+
+- [Eternal Return Survival Book](https://play.google.com/store/apps/details?id=com.actumn.eternalreturns) written in flutter, downloads 3k+
