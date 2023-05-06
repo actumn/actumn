@@ -22,7 +22,6 @@ More details on [LinkedIn](https://www.linkedin.com/in/sunmyeong-lee-663234153/)
 ### ✨ Side Projects
 - [Image Merge](https://play.google.com/store/apps/details?id=com.actumn.image_merge) [ios](https://apps.apple.com/us/app/image-merge/id1611904774?uo=4), downloads 420k+ 
 - [Anime Camera Filter](https://play.google.com/store/apps/details?id=com.actumn.image_anime_filter&hl=en&gl=US) [ios](https://apps.apple.com/us/app/anime-camera-filter/id1612176937?uo=2), downloads 80k+
-- [Eternal Return Survival Book](https://play.google.com/store/apps/details?id=com.actumn.eternalreturns) [ios](https://apps.apple.com/us/app/er-survival-book/id1590351863) written in flutter, downloads 10k+
 
 ### ✨ Languages
 - Korean (Native)
