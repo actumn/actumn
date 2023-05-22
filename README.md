@@ -5,7 +5,7 @@
 
 - 🔭 Currently working on (...)
 - 🌱 Learning how to develop the product users must have.
-- 👯 Love to develop distributed system, contribute open source
+- 👯 Love to develop distributed system
 - 📫 How to reach me: actumn814@gmail.com
 
 ### ✨ Work Experiences
