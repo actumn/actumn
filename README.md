@@ -9,7 +9,7 @@
 - 📫 How to reach me: actumn814@gmail.com
 
 ### ✨ Work Experiences
-- [NFTBank](https://nftbank.ai/) (2022.04 ~ 2023.05)
+- [NFTBank](https://nftbank.ai/) (2022.04 ~ )
 - [LINE+](https://linepluscorp.com/) (2020.12 ~ 2022.03)
 - [IGAWorks](http://igaworks.co.kr/) (2016.11 ~ 2018.07)
 - NAVER Clova (2018.11 ~ 2019.02, Software Engineer Internship)
