@@ -9,7 +9,7 @@
 - 📫 How to reach me: actumn814@gmail.com
 
 ### ✨ Work Experiences
-- [Tossbank](https://www.tossbank.com/) (2023.08 ~ )
+- [TossBank](https://www.tossbank.com/) (2023.08 ~ )
 - [NFTBank](https://nftbank.ai/) (2022.04 ~ 2023.06)
 - [LINE+](https://linepluscorp.com/) (2020.12 ~ 2022.04)
 - [IGAWorks](http://igaworks.co.kr/) (2016.11 ~ 2018.07)
