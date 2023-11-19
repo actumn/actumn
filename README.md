@@ -3,12 +3,13 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=actumn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/actumn)
 
-- 🔭 Currently working on (...)
+- 🔭 Currently working on [TossBank](https://www.tossbank.com/)
 - 🌱 Learning how to develop the product users must have.
 - 👯 Love to develop distributed system
 - 📫 How to reach me: actumn814@gmail.com
 
 ### ✨ Work Experiences
+- [Tossbank](https://www.tossbank.com/) (2023.08 ~ )
 - [NFTBank](https://nftbank.ai/) (2022.04 ~ 2023.06)
 - [LINE+](https://linepluscorp.com/) (2020.12 ~ 2022.04)
 - [IGAWorks](http://igaworks.co.kr/) (2016.11 ~ 2018.07)
