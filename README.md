@@ -1,13 +1,14 @@
 ### Hi, I'm SunMyeong Lee 👋
 [![github stats](https://github-readme-stats.vercel.app/api?username=actumn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/actumn)
 
-- 🔭 Currently working on [TossBank](https://www.tossbank.com/)
+- 🔭 Currently working on [Datarize](https://datarize.ai/en)
 - 🌱 Learning how to develop the product users must have.
 - 👯 Love to develop distributed system
 - 📫 How to reach me: actumn814@gmail.com
 
 ### ✨ Work Experiences
-- [TossBank](https://www.tossbank.com/) (2023.08 ~ )
+- [Datarize](https://datarize.ai/en) (2025.07 ~ )
+- [TossBank](https://www.tossbank.com/) (2023.08 ~ 2025.07)
 - [NFTBank](https://nftbank.ai/) (2022.04 ~ 2023.06)
 - [LINE+](https://linepluscorp.com/) (2020.12 ~ 2022.04)
 - [IGAWorks](http://igaworks.co.kr/) (2016.11 ~ 2018.07)
